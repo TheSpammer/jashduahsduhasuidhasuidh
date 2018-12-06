@@ -42,4 +42,4 @@ client.on('message', async msg=> {
 });
 
 
-client.login('NTE5ODM4NDM4NDE0MDkwMjQ0.DulSFg.eptcw3cyFD-jVFCDVMZwzsTOgbg');
+client.login(Bot_token);
